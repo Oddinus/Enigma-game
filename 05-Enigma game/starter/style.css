@@ -14,8 +14,8 @@ html {
 body {
   font-family: 'Cutive Mono', monospace;
   color: #eee;
-
-  background-color: #222;
+  background-image: url('tlo-enigma.jpg');
+  /* background-color: #222; */
   /* background-color: #60b347; */
 }
 
@@ -47,6 +47,7 @@ main {
 .right {
   width: 62rem;
   font-size: 4rem;
+  font-weight: bold;
 }
 
 /* ELEMENTS STYLE */
