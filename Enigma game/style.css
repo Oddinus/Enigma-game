@@ -44,7 +44,7 @@ main {
 .right {
   width: 62rem;
   font-size: 4rem;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 /* ELEMENTS STYLE */
